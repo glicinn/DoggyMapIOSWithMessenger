@@ -1,0 +1,76 @@
+// Start menu
+"map-menu-string" = "Map";
+"map-description-string" = "Great forgiotting down your ideas and brainstorming your next feature.";
+"news-menu-string" = "News";
+"news-description-string" = "Great forgiotting down your ideas and brainstorming your next feature.";
+"weather-menu-string" = "Weather";
+"weather-description-string" = "Great forgiotting down your ideas and brainstorming your next feature.";
+"start-string" = "Start";
+
+// Auth Window
+"authorization-string" = "Authorization";
+"auth-email-string" = "Enter your email";
+"auth-password-string" = "Enter your password";
+"auth-to-reg-string" = "Don't have an account?";
+"to-reg-string" = "Register";
+"log-in-string" = "Log in";
+
+// Reg Window
+"registration-string" = "Registration";
+"reg-name-string" = "Enter your name";
+"reg-surname-string" = "Enter your surname";
+"reg-email-string" = "Enter your email";
+"reg-password-string" = "Enter your password";
+"reg-repeat-password-string" = "Repeat your password";
+"reg-to-auth-string" = "Have an account?";
+"to-auth-string" = "Authorize";
+"log-up-string" = "Log up";
+
+// Auth Crash Window
+"auth-crash-string" = "Authorization Crashed";
+"repeat-string" = "Repeat, please";
+
+// Reg Crash Window
+"reg-crash-string" = "Registration Crashed";
+
+// Tab Bar
+"places-string" = "Places";
+"news-string" = "News";
+"weather-string" = "Weather";
+"profile-string" = "Profile";
+
+// Location Info
+"read-more-string" = "Read more";
+
+// News Window
+"news-title-string" = "News";
+
+// News View
+"share-string" = "Share News";
+
+// Weather Window
+"weather-title-string" = "Welcome to the weather Window";
+"weather-condition-string" = "Please share your current location to get the weather in your area";
+"today-string" = "Today";
+"weather-now-string" = "Weather now";
+"min-temp-string" = "Min temp";
+"max-temp-string" = "Max temp";
+"wind-speed-string" = "Wind speed";
+"humidity-string" = "Humidity";
+
+// Profile Window
+"calendar-string" = "My Calendar";
+"log-out-string" = "Log Out";
+"welcome-string" = "Welcome,";
+"add-task-string" = "Add Task";
+
+// Add Task Window
+"create-new-task-string" = "Create New Task";
+"task-name-string" = "Name";
+"task-name-description-string" = "Make New Video";
+"task-date-string" = "Date";
+"task-description-string" = "Description";
+"task-description-description-string" = "About Your Task";
+"task-category-string" = "Category";
+"create-string" = "Create Task";
+
